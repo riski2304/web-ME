@@ -309,7 +309,7 @@ img {
 
 .home__blob-img {
   width: 200px;
-  transform: translateY(-90px);
+  /* transform: translateY(-90px); */
 }
 
 .home__data {
@@ -518,7 +518,10 @@ img {
 }
 
 .skills__html {
-  width: 40%;
+  width: 70%;
+}
+.skills__css {
+  width: 70%;
 }
 
 .skills__vidio {
@@ -529,40 +532,8 @@ img {
   width: 50%;
 }
 
-.skills__wordpress {
+.skills__Desain_grafis {
   width: 50%;
-}
-
-.skills__python {
-  width: 60%;
-}
-
-.skills__tab {
-  width: 60%;
-}
-
-.skills__sql {
-  width: 50%;
-}
-
-.skills__google {
-  width: 60%;
-}
-
-.skills__bank {
-  width: 80%;
-}
-
-.skills__google {
-  width: 60%;
-}
-
-.skills__counter {
-  width: 80%;
-}
-
-.skills__office {
-  width: 90%;
 }
 
 .skills__close .skills__list {
